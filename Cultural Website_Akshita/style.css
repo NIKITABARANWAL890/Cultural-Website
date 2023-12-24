@@ -1,0 +1,425 @@
+body{
+    margin: 0px;
+    
+
+}
+.front-page{
+    height: 800px;
+    background-color: #3b3eef;
+    margin-top: 0px;
+}
+.nav-bar{
+    height: 5rem;
+    background-color: white ;
+   border-radius: 60px;
+    width: 90%;
+    margin-left: 4.5rem;
+    display: flex;
+    margin-top: 10px;
+    justify-items: center;
+    justify-content: space-around;
+    align-content: center;
+}
+.nv-Bar{
+    margin-top: 20px;
+}
+.logo{
+    font-size: 40px;
+    font-weight: 600;
+    color: black;
+    margin-top: 9px;
+}
+#cc{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+}
+#B1{
+    border: 1px solid rgba(39, 10, 134, 0.677);
+    background-color: white;
+    width: 100px;
+    height: 35px;
+    border-radius: 50px;
+    font-weight: 500;
+    font-size: 18px;
+}
+#B2{
+    width: 130px;
+    height: 35px;
+    border-radius: 50px;
+    background-color: darkblue;
+    color: white;
+    font-size: 18px;
+    margin-left: 30px;
+}
+.p1{
+    font-size: 75px;
+    color: white;
+    font-weight: 620;
+    text-align: center;
+    margin-top: 120px;
+    letter-spacing: 0.5px;
+    word-spacing: 1px;
+}
+.p2{
+    color: white;
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 35px;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    margin-top: 37px;
+}
+#B3{
+    background-color: darkblue;
+    font-size: 20px;
+    font-weight: 700;
+    height: 70px;
+    width: 200px;
+    border-radius: 50px;
+    color: white;
+    border: none;
+    margin-right: 30px;
+}
+#B4{
+    background-color: transparent;
+    font-weight: 700;
+    color: white;
+    border: none;
+    font-size: 20px;
+}
+.page2{
+    height: 530px;
+    display: flex;
+}
+.left{
+    width: 65%;
+    background-color: white;
+}
+.right{
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    margin-left: 100px ;
+    margin-top: 80px;
+    background-size: cover;
+    background-image: url("https://e1.pxfuel.com/desktop-wallpaper/595/590/desktop-wallpaper-indian-culture-getting-fade-hindu-indian-culture-thumbnail.jpg");
+}
+.content1{
+    margin-left: 70px;
+    margin-top: 40px;
+}
+h3{
+    color: #3b3eef;
+}
+#p3{
+   margin-top: 40px;
+   color: black;
+   font-weight: 650;
+   font-size: 40px;
+}
+#p4{
+    margin-top: 60px;
+    color: black;
+    font-size: 20px;
+}
+.page3{
+    height: 650px;
+    background-color: gainsboro;
+    text-align: center;
+}
+#p5{
+    color: black;
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 30px;
+}
+#p6{
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 30px;
+}
+.box{
+    height: 200px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.box1, .box2,.box3, .box4{
+    background-color: white;
+    height: 170px;
+    width: 650px;
+    margin-top: 30px;
+    border-radius: 8px;
+}
+.box p{
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 20px;
+}
+.box h2{
+    margin-top: 20px;
+}
+.box i{
+    margin-right: 30px;
+    color:#3b3eef ;
+}
+.page4{
+    height: 1300px;
+    background-color: white;
+}
+.head{
+    text-align: center;
+}
+.pricing{
+    display: flex;
+    justify-content: space-around;
+}
+.price1, .price2, .price3{
+    height: 900px;
+    background-color: rgb(191, 191, 223);
+    width: 450px;
+    border-radius: 10px;
+    margin-top: 30px;
+
+}
+.price2{
+  height: 1000px;
+}
+.cont1, .cont2, .cont3{
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.cont1, .cont2, .cont3 p{
+    margin-top: 35px;
+    font-size: 18px;
+    font-weight: 400;
+}
+span{
+    font-size: 80px;
+    font-weight: 700;
+}
+.checks p{
+    margin-top: 0px;
+}
+#B5{
+    text-align: center;
+    background-color: transparent ;
+    height: 50px;
+    margin-top: 60px;
+    margin-left: 60px;
+    width: 300px;
+    border-radius: 30px;
+    border: 1 px solid  darkblue;
+    font-weight: 500;
+    font-size: 20px;
+}
+#B6{
+    text-align: center;
+    color: white;
+    background-color: darkblue;
+    height: 50px;
+    margin-top: 40px;
+    margin-left: 60px;
+    width: 300px;
+    border-radius: 30px;
+    border: none;
+    font-weight: 500;
+    font-size: 20px;
+}
+.page5{
+    height: 1500px;
+    text-align: center;
+}
+.images{
+    height: 300px;
+    /* margin-top: 20px; */
+    display: flex;
+    justify-content: space-between;
+    margin: 40px;
+}
+.img {
+    margin-left: 0px;
+    /* padding: 10px; */
+    /* background-color: #3b3eef; */
+    height: 100%;
+    width: 340px;
+  
+}
+.img-1{
+    background-size: cover;
+    border-radius: 10px;
+    height: 100%;
+    width: 340px;
+    background-repeat: no-repeat;
+    background-image: url("https://e0.pxfuel.com/wallpapers/92/954/desktop-wallpaper-indian-art-native-american-art.jpg");
+}
+.img-2{
+    background-size: cover;
+    border-radius: 10px;
+    height: 100%;
+    width: 340px;
+    background-repeat: no-repeat;
+    background-image: url("https://i.pinimg.com/originals/25/78/4c/25784c2268bbb2ac7d561ee463c7b22b.png");
+}
+.img-3{
+    background-size: cover;
+    border-radius: 10px;
+    height: 100%;
+    width: 340px;
+    background-repeat: no-repeat;
+    background-image: url("https://e0.pxfuel.com/wallpapers/645/609/desktop-wallpaper-indian-painting-art-painting.jpg");
+}
+.img-4{
+    background-size: cover;
+    height: 100%;
+    width: 340px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-image: url("https://ae01.alicdn.com/kf/HTB16CN7XcrrK1RjSspaq6AREXXai.jpg_640x640q90.jpg");
+}
+.img-5{
+    background-size: cover;
+    height: 100%;
+    width: 340px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-image: url("https://images7.alphacoders.com/536/536269.jpg");
+}
+.img-6{
+    background-size: cover;
+    height: 100%;
+    width: 340px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-image: url("https://storage.googleapis.com/pai-images/fb8e38b27bb24ce5a8864c3df7380b1e.jpeg");
+}
+.img-7{
+    background-size: cover;
+    height: 100%;
+    width: 340px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-image: url("https://images.pexels.com/photos/2792601/pexels-photo-2792601.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+}
+.img-8{
+    background-size: cover;
+    height: 100%;
+    width: 340px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-image: url("https://i.pinimg.com/564x/99/b8/a9/99b8a9f8959030a2a03215c7ea29ae71.jpg");
+}
+.img-9{
+    background-size: cover;
+    height: 100%;
+    width: 340px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-image: url("https://www.superprof.co.in/blog/wp-content/uploads/2021/03/indian-food-history.jpg");
+}
+.img-10{
+    background-size: cover;
+    height: 100%;
+    width: 340px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-image: url("https://images.unsplash.com/photo-1463592177119-bab2a00f3ccb?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8aW5kaWFuJTIwY3VsdHVyZXxlbnwwfHwwfHx8MA%3D%3D");
+}
+.img-11{
+    background-size: cover;
+    height: 100%;
+    width: 340px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-image: url("https://i.pinimg.com/originals/93/1f/d3/931fd36ec62e3a12a493465292d130fa.jpg");
+}
+.img-12{
+    background-size: cover;
+    height: 100%;
+    width: 340px;
+    border-radius: 10px;
+    background-repeat: no-repeat;
+    background-image: url("https://pbs.twimg.com/media/DIi6WtwUMAEhmGg.jpg");
+}
+.black{
+    height: 400px;
+    background-color: black;
+    margin-top: 70px;
+    text-align: center;
+    color: white;
+}
+.py-5{
+   font-size: 50px;
+   font-weight: 500;
+   }
+#p8{
+font-size: 20px;
+margin-top: 0px;
+}
+.content3{
+    height: 650px;
+    display: flex;
+    text-align: left;
+    justify-content: space-evenly;
+}
+.left2{
+    width: 20%;
+    margin-top: 30px;
+    
+}
+#p9{
+    font-size: 20px;
+} 
+#p10{
+    font-size: 20px;
+    font-weight: 500;
+}
+.right2{
+    width: 60%;
+    margin-top: 30px;
+}
+.footer{
+    background-color: black;
+    height: 350px;
+    
+}
+#p11{
+    color: white;
+    font-size: 50px;
+}
+.py-4{
+    color: white;
+    font-size: 40px;
+    font-weight: 500;
+}
+.foot-nav{
+    display: flex;
+    justify-content: center;
+  margin-top: 0px;
+  
+}
+.foot-nav a{
+    text-decoration: none;
+    padding: 20px;
+    color: white;
+    font-size: 20px;
+}
+.foot-end{
+    border-top: 0.7px solid rgba(128, 128, 128, 0.696);
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    color: white;
+    margin-top: 30px;
+   margin-left: 120px;
+}
+i{
+    padding: 20px;
+    font-size: 28px;
+}
